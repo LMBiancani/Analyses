@@ -3,7 +3,9 @@ title: "Analysis Notes"
 author: "Leann M. Biancani"
 output: html_document
 ---
+[Notebook Home](https://lmbiancani.github.io/Analyses/)
 
+[Analyses Repository](https://github.com/LMBiancani/Analyses)
 
 ```{css, echo=FALSE}
 /* Define a background class for displaying content of slurm submission text files */

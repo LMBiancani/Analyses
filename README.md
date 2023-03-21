@@ -1,3 +1,6 @@
-# Analyses
+---
+title: "Analysis Notes"
+author: "Leann M. Biancani"
+---
 
-note
+[Notebook](https://lmbiancani.github.io/Analyses/)
